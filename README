@@ -1,0 +1,10 @@
+Just download the folder or clone it. 
+
+Install all the required packages with ~> npm install
+
+start the server with ~> node app.js
+
+Open the html page in the directory with any of the latest web browsers to see the messages on the screen sent from the
+server with a timeout. And also the message sent from client(web browser) in the console log for now.
+
+Continue with it later with a clear picture in mind.
